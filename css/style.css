@@ -1,0 +1,13 @@
+/* Name- Arya Miteshbhai Patel & Student number- 8980267 */ 
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: hsla(210, 53%, 73%, 0.9);
+    height: 90vh;
+    width: 90vw;
+}
+h2{
+    color: #160;
+    font-size: 1.5em;
+}
